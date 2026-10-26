@@ -1,4 +1,6 @@
-# BURNOUT — ассеты и лицензии / Assets & licenses
+# BURNOUT — ассеты и лицензии
+
+**English version:** [assets.en.md](assets.en.md)
 
 **Игра:** BURNOUT: You Are the Semester  
 **Платформа:** веб (HTML5 / WebGL)  
@@ -108,7 +110,3 @@ npm run build    # каталог dist/ — то, что отдаётся игр
 ## 6. Контакты
 
 По вопросам прав на ассеты: **[укажите имя / email команды]**.
-
----
-
-*English summary: All gameplay code, procedural Kirill, horde units, maps, canvas textures, UI icons, and Web Audio music/SFX are original. Eight character GLBs are from Meshy.ai (team account, Meshy ToS), rigged with our Blender script. Fonts are Google Fonts (SIL OFL). Runtime uses Three.js (MIT). No external audio or sprite packs are shipped.*
